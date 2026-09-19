@@ -34,8 +34,8 @@
 
 ### 📬 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarmylsamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-mylesamy/)
-[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:shankarmylesamy@gmail.com)](mailto:shankarmylesamy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarmylesamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-mylesamy/)
+[![Gmail Badge](https://img.shields.io/badge/-shankarmylesamy@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:shankarmylesamy@gmail.com)](mailto:shankarmylesamy@gmail.com)
 
 
 
