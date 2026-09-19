@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on any web development projects.
 - 💬 Ask me about anything related to tech and financial planning tips.
 - 📃 Find my resume [here](https://drive.google.com/file/d/19ioaDS8TfyPDfdO57VcUDDlIj_kRvL0v/view?usp=sharing)
-- 🕸️ Checkout my portfolio [here](https://shankarmylsamy.netlify.app) 
+- 🕸️ Checkout my portfolio [here](https://shankar-mylesamy.netlify.app/) 
 <!-- - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr) -->
 
 ![](https://komarev.com/ghpvc/?username=shankarmylsamy)
@@ -34,8 +34,8 @@
 
 ### 📬 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarmylsamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankarmylsamy/)
-[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:marineshankar@gmail.com)](mailto:marineshankar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shankarmylsamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-mylesamy/)
+[![Gmail Badge](https://img.shields.io/badge/-marineshankar@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:shankarmylesamy@gmail.com)](mailto:shankarmylesamy@gmail.com)
 
 
 
